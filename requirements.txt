@@ -11,3 +11,10 @@ pmdarima==2.0.4
 scikit-learn==1.3.2
 python-dotenv==1.0.0
 jupyter==1.0.0
+yfinance
+pandas
+numpy
+statsmodels
+arch
+scipy
+streamlit
